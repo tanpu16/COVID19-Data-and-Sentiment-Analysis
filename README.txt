@@ -2,8 +2,6 @@
 
 
 Name : Priyanka Prakash Tanpure
-BU ID : B00821027
-BU mail : ptanpur1@binghamton.edu
 
 
 Prerequisite :
